@@ -9,7 +9,7 @@
 
 /*ASTRONAUT*/
 .astronaut {
-  background-image: url("/inl-1-to-the-moon-Del3o/Images/adam-miller-dBaz0xhCkPY-unsplash.jpg");
+  background-image: url(/Images/adam-miller-dBaz0xhCkPY-unsplash.jpg);
   background-size: cover;
   background-position: 50% 50%;
 }
@@ -147,7 +147,7 @@
 
 /*TEXTPAGE*/
 .textPage {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(/inl-1-to-the-moon-Del3o/Images/raphael-nogueira-svbDI1Pq30s-unsplash.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(/Images/raphael-nogueira-svbDI1Pq30s-unsplash.jpg);
   background-size: cover;
   color: white;
   font-family: "Rubik", sans-serif;
@@ -356,7 +356,7 @@
     left: 10px;
   }
   .textPage {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(/inl-1-to-the-moon-Del3o/Images/raphael-nogueira-svbDI1Pq30s-unsplash.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(/Images/raphael-nogueira-svbDI1Pq30s-unsplash.jpg);
     background-size: cover;
   }
   .textPage .wrapper {
@@ -402,7 +402,7 @@
   }
   .textPage .majorTomImg::before {
     content: "";
-    background-image: url(/inl-1-to-the-moon-Del3o/Images/major_tom.jpg);
+    background-image: url(/assets/photos/major_tom.jpg);
     background-size: 85px 125px;
     width: 85px;
     height: 125px;
